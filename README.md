@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking to learn more about html, css, javascript
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- ⚡ Fun fact: student at Noroff, studying front-end developement
+- ⚡ Fun fact: student at Noroff, studying front-end developement.
 -->
